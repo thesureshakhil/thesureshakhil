@@ -56,5 +56,3 @@
 
 ---
 
-## 🚀 DevOps & Cloud Journey
-

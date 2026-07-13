@@ -38,14 +38,14 @@
   <tr>
     <td width="60%" valign="top">
       <p>I am a passionate <strong>Information Technology graduate</strong> dedicated to mastering the modern cloud-native ecosystem. My journey revolves around treating infrastructure strictly as software—automating deployments, designing resilient AWS architectures, and minimizing human intervention in enterprise release pipelines.</p>
-<!--
+<
       <ul>
         <li>🎯 <strong>Engineering Philosophy:</strong> <em>"If you have to do it more than twice, automate it."</em></li>
         <li>🚀 <strong>Career Objective:</strong> Become a world-class DevOps & Cloud Engineer specializing in AWS, Kubernetes, Terraform, CI/CD pipelines, and Cloud Automation.</li>
         <li>💡 <strong>Areas of Interest:</strong> Cloud Computing, Infrastructure as Code, SRE Practices, Containerization, and Platform Engineering.</li>
         <li>🧠 <strong>Learning Mindset:</strong> Continuously building hands-on projects, breaking real-world infrastructure setups, and rebuilding them stronger.</li>
         <li>⚡ <strong>Fun Fact:</strong> I prefer reading Terraform plan outputs over standard novels.</li>
-      </ul> -->
+      </ul> 
     </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsuresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" width="100%" />

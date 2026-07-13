@@ -15,11 +15,11 @@
 
   <!-- Professional Badges -->
   <p>
-    <a href="https://github.com/akhilsuresh"><img src="https://img.shields.io/github/followers/akhilsuresh?label=Followers&logo=github&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers" /></a>
+   <!-- <a href="https://github.com/akhilsuresh"><img src="https://img.shields.io/github/followers/akhilsuresh?label=Followers&logo=github&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=akhilsuresh&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Open%20To%20Roles-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Status" />
-  </p>
+  </p> -->
 
   <!-- Quick Social Links -->
   <p>

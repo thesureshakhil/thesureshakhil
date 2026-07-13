@@ -59,4 +59,8 @@
 ## 🚀 DevOps & Cloud Journey
 
 
+Skills
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,python,bash,vscode" />
+</p>
